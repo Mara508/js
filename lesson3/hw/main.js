@@ -21,19 +21,12 @@
 // -- Створити пустий масив. Наповнити його будь-якими значеннями звертаючись до конкретного індексу. Вивести в консоль
 
 // let arr = [];
+// arr[0] = 'one';
+// arr[1] = 'two';
+// arr[2] = 'three';
+// arr[3] = 4;
+// arr[4] = 5;
 // for (let i = 0; i < 5; i++) {
-//     switch (i){
-//         case 0: arr[i] = 'one';
-//             break;
-//         case 1:arr[i] = 'two';
-//             break;
-//         case 2:arr[i] = 'three';
-//             break;
-//         case 3:arr[i] = 4;
-//             break;
-//         case 4:arr[i] = 5;
-//             break;
-//     }
 //     console.log(arr[i]);
 // }
 
@@ -127,29 +120,17 @@
 // - Створити порожній масив. Наповнити його 10 елементами (різними за типами) через звернення до конкретних індексів. Вивести в консоль всі його елементи в циклі.
 
 // let arr = [];
+// arr[0] = 1;
+// arr[1] = 'two';
+// arr[2] = 'three';
+// arr[3] = 4;
+// arr[4] = true;
+// arr[5] = false;
+// arr[6] = 'seven';
+// arr[7] = 'eight';
+// arr[8] = 9;
+// arr[9] = 'ten';
 // for (let i = 0; i < 10; i++) {
-//     switch (i){
-//         case 0: arr[i] = 1;
-//             break;
-//         case 1:arr[i] = 'two';
-//             break;
-//         case 2:arr[i] = 'three';
-//             break;
-//         case 3:arr[i] = 4;
-//             break;
-//         case 4:arr[i] = true;
-//             break;
-//         case 5:arr[i] = false;
-//             break;
-//         case 6:arr[i] = 'seven';
-//             break;
-//         case 7:arr[i] = 'eight';
-//             break;
-//         case 8:arr[i] = 9;
-//             break;
-//         case 9:arr[i] = 'ten';
-//             break;
-//     }
 //     console.log(arr[i]);
 // }
 
